@@ -73,8 +73,24 @@ for (const { key, label } of LANGS) {
   toggles.append(chip);
 }
 
-// 默认选中第一首（可按需注释）
-if (songs[0]) selectSong(songs[0]);
+function getSongFromHash(): Song | null {
+  const h = location.hash;
+  if (!h || h.length <= 1) return null;
+  const id = decodeURIComponent(h.slice(1));
+  return songs.find(s => s.id === id) ?? null;
+}
+
+const fromHash = getSongFromHash();
+if (fromHash) selectSong(fromHash);
+else if (songs[0]) selectSong(songs[0]);
+
+// 监听 hash 变化（前进/后退或手动修改）
+window.addEventListener('hashchange', () => {
+  const s = getSongFromHash();
+  if (s && s.id !== currentSongId) {
+    selectSong(s);
+  }
+});
 
 function parseTaggedLyrics(text: string): PerSongCache {
   const norm = text.replace(/^\uFEFF/, "").replace(/\r\n?/g, "\n");
@@ -132,6 +148,11 @@ function parseTaggedLyrics(text: string): PerSongCache {
 async function selectSong(song: Song) {
   if (currentSongId === song.id) return;
   currentSongId = song.id;
+
+  const hashId = "#" + encodeURIComponent(song.id);
+  if (location.hash !== hashId) {
+    location.hash = hashId;
+  }
 
   // 高亮列表项
   for (const [id, btn] of songBtnMap) {
@@ -244,7 +265,7 @@ function el<K extends keyof HTMLElementTagNameMap>(
 
 async function fetchText(url: string): Promise<string | null> {
   try {
-    const res = await fetch(url, { cache: "force-cache" });
+    const res = await fetch(url);
     if (!res.ok) return null;
     return await res.text();
   } catch {

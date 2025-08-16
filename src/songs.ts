@@ -7,4 +7,5 @@ export interface Song {
 
 export const songs: Song[] = [
   { id: 'hanayuki', title: '花雪' },
+  { id: 'masterpiece', title: 'M@STERPIECE' },
 ];
