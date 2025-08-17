@@ -167,7 +167,7 @@ async function selectSong(song: Song) {
     lyricsWrap.innerHTML = "";
     lyricsWrap.append(el("div", "loading", "正在加载歌词…"));
 
-    const text = await fetchText(`/lyrics/${song.id}`);
+    const text = await fetchText(`/lyrics/${song.id}.txt`);
     const rows = parseTaggedLyrics(text ?? "");
     lyricsCache.set(song.id, rows);
   }
