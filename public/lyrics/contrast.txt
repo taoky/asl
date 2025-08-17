@@ -1,0 +1,237 @@
+[jp]オモシロイ？ ツマラナイ？
+[rom]omoshiroi? tsumaranai?
+[zhjp]有趣吗？ 无聊吗？
+[zh]风生水起 平淡无奇
+
+[jp]モノクロな ホログラム
+[rom]monokuro na horoguramu
+[zhjp]黑白的 全息图
+[zh]黑白照片 全息画面
+
+[jp]何段階 飛ばして
+[rom]nandankai tobashite
+[zhjp]跳过 多少阶段
+[zh]无论使用何种手段
+
+[jp]映しても 無駄
+[rom]utsushitemo muda
+[zhjp]即使映照出来 也 没用
+[zh]成像也是做无用功
+
+[jp]オドロキも トキメキも
+[rom]odoroki mo tokimeki mo
+[zhjp]惊讶也好 心动也罢
+[zh]惊讶也好 心动也罢
+
+[jp]飽和する 情報も
+[rom]houwa suru jouhou mo
+[zhjp]饱和的 情报也
+[zh]无非只是一种数据
+
+[jp]目の前を過ぎれば 同じこと
+[rom]me no mae o sugireba onaji koto
+[zhjp]若从眼前经过 就是一样的事
+[zh]与我而言别无二致
+
+[jp]（昨日今日 閃光）できる？
+[rom](kinou kyou senkou) dekiru?
+[zhjp]（昨日今日 闪光）能做到吗？
+[zh]（日复一日闪烁）可以吗？
+
+[jp]（器用でも貧）できない？
+[rom](kiyou demo bin) dekinai?
+[zhjp]（即使灵巧却贫乏）做不到吗？
+[zh]（灵巧却又笨拙）不行吗？
+
+[jp]（退屈な心臓）今回はどうかな？
+[rom](taikutsu na shinzou) konkai wa dou kana?
+[zhjp]（无聊的心脏）这次会怎么样呢？
+[zh]（沉寂的心灵）这回怎么样？
+
+[jp]（新鮮な動揺）でもね
+[rom](shinsen na douyou) demo ne
+[zhjp]（新鲜的动摇）但是呢
+[zh]（鲜活的鼓动）但是呢
+
+[jp]（欲しいのは喫驚）なぜか
+[rom](hoshii no wa kikkyou) naze ka
+[zhjp]（想要的是惊诧）为什么
+[zh]（渴望波澜壮阔）为什么
+
+[jp]（壊してく均衡）やりたい
+[rom](kowashiteku kinkou) yaritai
+[zhjp]（逐渐破坏的均衡）想要做
+[zh]（打破缥缈碧波）想要去做
+
+[all]Getting into life
+
+[all]’Cause I found that it’s not so boring
+
+[all]Not anymore
+
+[jp]ねえ 見てみたい
+[rom]nee mite mitai
+[zhjp]呐 想要试着看看
+[zh]想要见证
+
+[jp]感じてみたい
+[rom]kanjite mitai
+[zhjp]想要试着感受
+[zh]想要经历
+
+[jp]さあ 一緒に
+[rom]saa issho ni
+[zhjp]来吧 一起
+[zh]来吧 与我携手
+
+[jp]歌を 歌おう
+[rom]uta o utaou
+[zhjp]歌儿 来唱吧
+[zh]歌唱吧 一同唱吧
+
+[jp]色付く世界へ 行こう
+[rom]irozuku sekai e ikou
+[zhjp]向着染上色彩的世界 去吧
+[zh]出发吧 向那缤纷的世界
+
+[jp]もっと遠く
+[rom]motto tooku
+[zhjp]更加遥远地
+[zh]向那遥远的彼方
+
+[jp]わからない？ 向いてない？
+[rom]wakaranai? muitenai?
+[zhjp]不明白吗？ 不适合吗？
+[zh]一窍不通 无地适从
+
+[jp]方位磁針 壊して
+[rom]houi jishin kowashite
+[zhjp]将方位磁针 弄坏
+[zh]夜幕茫茫 迷失方向
+
+[jp]真っ暗な道を 進んでみるの
+[rom]makkura na michi o susunde miru no
+[zhjp]在漆黑的道路上 试着前进
+[zh]未知道路也要启航
+
+[jp]推測も計算も、もう
+[rom]suisoku mo keisan mo, mou
+[zhjp]推测也好计算也好，已经
+[zh]猜测 计算 此刻
+
+[jp]当てにならない
+[rom]ate ni naranai
+[zhjp]靠不住了
+[zh]已不再适用
+
+[jp]胸の鼓動 観測してく
+[rom]mune no kodou kansoku shiteku
+[zhjp]将胸中的鼓动 观测下去
+[zh]遵从本心 心中已有答案
+
+[jp]今度こそ 今度こそ 心震わせてみたい
+[rom]kondo koso kondo koso kokoro furuwasete mitai
+[zhjp]这次一定 这次一定 想要试着让心颤动
+[zh]这次一定 这次一定 我要让你的心颤动
+
+[jp]分かち合う 目と目合わせて 君と...
+[rom]wakachiau me to me awasete kimi to...
+[zhjp]互相分享 眼神交汇 与你...
+[zh]互通心意 眼神交汇 与你...
+
+[jp]（超非常 近況）
+[rom](chou hijou kinkyou)
+[zhjp]（超乎寻常的 近况）
+[zh]（应对非凡状况）
+
+[jp]（反芻と実行）
+[rom](hansuu to jikkou)
+[zhjp]（反复思考与实行）
+[zh]（三思之后再上）
+
+[jp]（俗に言う成長）
+[rom](zoku ni iu seichou)
+[zhjp]（俗话说的成长）
+[zh]（这就是成长）
+
+[jp]（恰好な参照）ね、
+[rom](kakkou na sanshou) ne,
+[zhjp]（绝佳的参照）呐、
+[zh]（最好的参照）
+
+[jp]（隆起する焦燥）でもね
+[rom](ryuuki suru shousou) demo ne
+[zhjp]（隆起的焦躁）但是呢
+[zh]（日渐累积的焦躁）
+
+[jp]（前向きな緊張）なぜか
+[rom](maemuki na kinchou) naze ka
+[zhjp]（积极的紧张）为什么
+[zh]（必须前进的紧张）
+
+[jp]（かつてない疾走）やりたい
+[rom](katsute nai shissou) yaritai
+[zhjp]（前所未有的疾驰）想要做
+[zh]（驱使前所未有的动力）
+
+[jp]必要なのはコントラスト。
+[rom]hitsuyou nano wa kontorasuto.
+[zhjp]需要的是对比反差。
+[zh]需要的仅是反差
+
+[all]Getting into life
+
+[all]’Cause I found that it’s not so boring
+
+[all]Not anymore
+
+[jp]ねえ 見てみたい
+[rom]nee mite mitai
+[zhjp]呐 想要试着看看
+[zh]想要见证
+
+[jp]感じてみたい
+[rom]kanjite mitai
+[zhjp]想要试着感受
+[zh]想要经历
+
+[jp]泣いて 笑って しくじって
+[rom]naite waratte shikujitte
+[zhjp]哭泣着 欢笑着 失败着
+[zh]悲伤 喜悦 挫折
+
+[all]Getting into life
+
+[all]’Cause I found that it’s not so boring
+
+[all]Not anymore
+
+[jp]ねえ 見てほしい
+[rom]nee mite hoshii
+[zhjp]呐 想要你看看
+[zh]想要见证
+
+[jp]感じてほしい
+[rom]kanjite hoshii
+[zhjp]想要你感受
+[zh]想要经历
+
+[jp]さあ 一緒に
+[rom]saa issho ni
+[zhjp]来吧 一起
+[zh]来吧 与我携手
+
+[jp]歌を 歌おう
+[rom]uta o utaou
+[zhjp]歌儿 来唱吧
+[zh]歌唱吧 一同唱吧
+
+[jp]色付く世界へ 行こう
+[rom]irozuku sekai e ikou
+[zhjp]向着染上色彩的世界 去吧
+[zh]出发吧 向那缤纷的世界
+
+[jp]もっと 遠く
+[rom]motto tooku
+[zhjp]更加 遥远地
+[zh]向那遥远的彼方
