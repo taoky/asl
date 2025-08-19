@@ -147,3 +147,32 @@ body {
   color: var(--muted);
   font-size: 14px;
 }
+
+/* 暗黑模式（跟随系统偏好） */
+@media (prefers-color-scheme: dark) {
+  :root {
+    color-scheme: dark;
+    --bg: #0f172a;      /* slate-900 */
+    --panel: #111827;   /* gray-900 */
+    --fg: #e5e7eb;      /* gray-200 */
+    --muted: #9ca3af;   /* gray-400 */
+    --primary: #60a5fa; /* blue-400 */
+    --border: #334155;  /* slate-700 */
+    --accent: #0b1220;  /* 深色微差背景 */
+  }
+
+  /* 覆盖少量硬编码的浅色背景/前景 */
+  .song-btn.active {
+    background: rgba(96, 165, 250, 0.18); /* 基于 --primary 的半透明高亮 */
+    color: var(--primary);
+  }
+  .lyrics-wrap {
+    background: #0f172a; /* 替代原来的浅色 #fafbff */
+    border-color: var(--border);
+  }
+
+  /* 细化不同语言的前景色，保证在暗色下的层次 */
+  .cell.kana { color: #cbd5e1; }   /* slate-300 */
+  .cell.romaji { color: #c7d2fe; } /* indigo-200 */
+  .cell.zh { color: #e5e7eb; }     /* gray-200 */
+}
